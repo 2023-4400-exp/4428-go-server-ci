@@ -15,5 +15,5 @@ spec:
         app: go-server-ci
     spec:
       containers:
-      - image: sts3104comet/go-server-ci
+      - image: a87cd590d02570f6dc744bc6f81d56d000779541
         name: go-server-ci
